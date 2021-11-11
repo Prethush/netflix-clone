@@ -19,4 +19,4 @@ npm start
 
 ## Deployment
 
-https://blog-app-kt.netlify.app/
+https://netlix-clone-kt.netlify.app
